@@ -1,6 +1,6 @@
 # DontStarveTogether Dedicate Server
 
-move file to this path
+move all file to this path
 ```
 - /home/USERNAME/dontstarvetogether_dedicated_server/mods/dedicated_server_mods_setup.lua
 
